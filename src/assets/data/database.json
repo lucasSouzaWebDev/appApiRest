@@ -1,0 +1,29 @@
+{
+  "times": [
+    {
+      "id": 1,
+      "clube": "Clube Atlético Paranaense",
+      "cidade": "Curitiba"
+    },
+    {
+      "id": 2,
+      "clube": "Clube de Regatas Flamengo",
+      "cidade": "São Paulo"
+    },
+    {
+      "id": 3,
+      "clube": "São Paulo Futebol Clube",
+      "cidade": "São Paulo"
+    },
+    {
+      "id": 4,
+      "clube": "Associação Atlética Batel",
+      "cidade": "Guarapuava"
+    },
+    {
+      "id": 5,
+      "clube": "Operário Ferroviário",
+      "cidade": "Ponta Grossa"
+    }
+  ]
+}
